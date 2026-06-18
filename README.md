@@ -20,7 +20,7 @@ Circl Studios is a SaaS studio building practical digital products at the inters
 
 **The Talk Tank** — Coming soon.
 
-**The Stylist Edit** — Coming soon.
+**The Stylist Edit** — A salon tool for building culture, stylist agency and personal branding, genuine client loyalty and communication, rescheduling, product retention and more.
 
 ---
 
