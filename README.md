@@ -18,7 +18,7 @@ Circl Studios is a SaaS studio building practical digital products at the inters
 
 **Agency App** — Daily practices to build personal agency.
 
-**The Talk Tank** — Coming soon.
+**The Talk Tank** — Born from a personal fear of speaking and a desire to improve elocution. Growing into an educational tool for anyone who wants to find and own their voice.
 
 **The Stylist Edit** — A salon tool for building culture, stylist agency and personal branding, genuine client loyalty and communication, rescheduling, product retention and more.
 
