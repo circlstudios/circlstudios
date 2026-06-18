@@ -10,7 +10,7 @@ Circl Studios is a SaaS studio building practical digital products at the inters
 
 **[Vera Muse](https://veramuse.app)** — Private AI for women's style, beauty, skin and life decisions.
 
-**[Maison Circl](https://ourcircl.app)** — A conversation platform for meaningful human dialogue.
+**[Maison Circl](https://ourcircl.app)** — A conversation platform inspired by the 1920s Left Bank Parisian cafes of great thinkers. Built for meaningful human thought, respectful open-minded dialogue, a bookstore and facilitated experiences.
 
 **[Breath Artistry](https://breathartistry.lovable.app)** — Platform for breathwork facilitators and client support.
 
