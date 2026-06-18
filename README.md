@@ -1,4 +1,4 @@
-———————# Circl Studios
+# Circl Studios
 
 ### Human centred AI tools for people navigating change.
 
@@ -14,24 +14,24 @@ Circl Studios is a SaaS studio building practical digital products at the inters
 
 **[Breath Artistry](https://breathartistry.lovable.app)** — Platform for breathwork facilitators and client support.
 
-**[Averne](https://averne.app)** — Capasity reset for high performers.
+**[Averne](https://averne.app)** — Capacity reset for high performers.
+
+**Agency App** — Daily practices to build personal agency.
+
+**The Talk Tank** — Coming soon.
+
+**The Stylist Edit** — Coming soon.
 
 ---
 
 ## About the Founder
 
-Circl Studios was founded by Sally Grant, a Melbourne based founder with 30 years of experience in beauty, personal styling and breathwork facilitation.
+Sally Grant is the founder of Circl Studios. Based in Melbourne, Australia, she is building a suite of human centred AI tools for people navigating change across beauty, identity, wellbeing and performance.
 
-After winning the L'Oreal Colour Trophy, owning two salons and building a breathwork practice from scratch in Bali, Sally taught herself no code tools and began building digital products during recovery from a car accident. When AI became capable of memory and personalisation, she saw a way to bring together everything she had spent her life learning.
+With a background spanning luxury retail, brand strategy and digital product development, Sally brings a rare mix of commercial instinct and deep human understanding to every product she builds. She has spent her career at the intersection of how people present themselves to the world and how they feel on the inside and she builds tools that honour both.
 
-Her edge is not just the idea. It is the combination of taste, resilience, practitioner insight and the refusal to stop building.
+Circl Studios is her vehicle for turning that insight into scalable, privacy first digital products that people actually want to use.
 
----
-
-## Studio Thesis
-
-People are navigating more change than ever in their bodies, identities, relationships and lives. The tools available are generic, noisy and built for someone else. Circl Studios exists to change that.
-
----
-
-*Building in Melbourne, Australia.*
+**Contact:** circlstudios@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/averne/
+**Location:** Melbourne, Australia
