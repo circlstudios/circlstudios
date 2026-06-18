@@ -14,13 +14,13 @@ Circl Studios is a SaaS studio building practical digital products at the inters
 
 **[Breath Artistry](https://breathartistry.lovable.app)** — Platform for breathwork facilitators and client support.
 
-**[Averne](https://averne.app)** — Tools for agency, communication and practitioner support.
+**[Averne](https://averne.app)** — Capasity reset for high performers.
 
 ---
 
 ## About the Founder
 
-Circl Studios was founded by Sally Grant, a Melbourne based founder with 20 years of experience in beauty, personal styling and breathwork facilitation.
+Circl Studios was founded by Sally Grant, a Melbourne based founder with 30 years of experience in beauty, personal styling and breathwork facilitation.
 
 After winning the L'Oreal Colour Trophy, owning two salons and building a breathwork practice from scratch in Bali, Sally taught herself no code tools and began building digital products during recovery from a car accident. When AI became capable of memory and personalisation, she saw a way to bring together everything she had spent her life learning.
 
