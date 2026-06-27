@@ -28,7 +28,7 @@ Circl Studios is a SaaS studio building practical digital products at the inters
 
 Sally Grant is the founder of Circl Studios. Based in Melbourne, Australia, she is building a suite of human centred AI tools for people navigating change across beauty, identity, wellbeing and performance.
 
-With a background spanning luxury styling and purchasing, brand strategy and digital product development, Sally brings a rare mix of commercial instinct and deep holistic human understanding to every product she builds. She has spent her career at the intersection of how people present themselves to the world and how they feel on the inside and she builds tools that honour both.
+With a background spanning luxury styling and purchasing, brand strategy and digital product development, Sally brings a rare mix of commercial instinct and deep human understanding to every product she builds. She has spent her career at the intersection of how people present themselves to the world and how they feel on the inside and she builds tools that honour both.
 
 Circl Studios is her vehicle for turning that insight into scalable, privacy first digital products that people actually want to use.
 
